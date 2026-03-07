@@ -1,0 +1,32 @@
+{
+    "Front": {
+        "risk": "LOW",
+        "report": "Current sector is characterized by mostly sandy terrain and clear of large rocks. Trail status: path indistinct.",
+        "data": {
+            "bushes": 0,
+            "gravel": 0,
+            "hills": 0,
+            "offroad_path": 0,
+            "plants": 0,
+            "rocks": 0,
+            "sand": 100,
+            "sky": 0,
+            "vegetation": 0
+        }
+    },
+    "Left": {
+        "risk": "UNKNOWN",
+        "report": "No data",
+        "data": {}
+    },
+    "Rear": {
+        "risk": "UNKNOWN",
+        "report": "No data",
+        "data": {}
+    },
+    "Right": {
+        "risk": "UNKNOWN",
+        "report": "No data",
+        "data": {}
+    }
+}

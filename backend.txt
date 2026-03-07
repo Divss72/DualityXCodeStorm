@@ -1,0 +1,62 @@
+{
+    "Front": {
+        "risk": "MODERATE",
+        "report": "Terrain analysis indicates minimal sand with high rock hazard. Trail status: path indistinct.",
+        "data": {
+            "bushes": 0,
+            "gravel": 0,
+            "hills": 0,
+            "offroad_path": 0,
+            "plants": 0,
+            "rocks": 99,
+            "sand": 0,
+            "sky": 0,
+            "vegetation": 0
+        }
+    },
+    "Left": {
+        "risk": "LOW",
+        "report": "Scans reveal a landscape of mixed sand patches mixed with clear of large rocks. Elevation scan indicates rolling hills. Trail status: path indistinct.",
+        "data": {
+            "bushes": 5,
+            "gravel": 0,
+            "hills": 43,
+            "offroad_path": 0,
+            "plants": 0,
+            "rocks": 0,
+            "sand": 43,
+            "sky": 0,
+            "vegetation": 7
+        }
+    },
+    "Rear": {
+        "risk": "HIGH",
+        "report": "Current sector is characterized by minimal sand and high rock hazard. Elevation scan indicates steep hilly terrain. Route analysis: path indistinct.",
+        "data": {
+            "bushes": 0,
+            "gravel": 0,
+            "hills": 61,
+            "offroad_path": 0,
+            "plants": 0,
+            "rocks": 17,
+            "sand": 19,
+            "sky": 0,
+            "vegetation": 0
+        }
+    },
+    "Right": {
+        "risk": "LOW",
+        "report": "Current sector is characterized by mixed sand patches and clear of large rocks. Note: areas of dense bush detected. Route analysis: path indistinct.",
+        "data": {
+            "bushes": 33,
+            "gravel": 0,
+            "hills": 19,
+            "offroad_path": 0,
+            "plants": 0,
+            "rocks": 0,
+            "sand": 46,
+            "sky": 0,
+            "vegetation": 0
+        }
+    }
+}

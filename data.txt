@@ -1,0 +1,18 @@
+--- DATA UPDATE: 2026-02-04 23:33:44 ---
+Camera: FRONT
+Status: ONLINE 🟢
+Frames Received: 471
+
+Camera: REAR
+Status: OFFLINE 🔴
+Frames Received: 0
+
+Camera: LEFT
+Status: OFFLINE 🔴
+Frames Received: 6831
+
+Camera: RIGHT
+Status: OFFLINE 🔴
+Frames Received: 0
+
+Total Active Cameras: 1
